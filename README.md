@@ -2,7 +2,7 @@
 - 👀 I’m interested in **computer science** and **phylosophy**
 - 🌱 I’m currently learning **masm 8086**
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at **enriqueghameus@gmail.com**
+- 📫 You can reach me at **enriqueghameus@gmail.com**
 
 <!---
 EnrynHsu/EnrynHsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
